@@ -7,6 +7,10 @@ This Dashboard visualizes the data and dig-out interesting info about these unic
 
 
 
-Floating Tooltip
+![unicorn1](https://github.com/sampatbulla/Unicorns_of_the_World-Power_BI/assets/44163825/a53a37f6-48a9-4321-b8b8-50083af2db62)
 
+![unicorn2](https://github.com/sampatbulla/Unicorns_of_the_World-Power_BI/assets/44163825/09f3a82a-d02d-47d6-a20c-576f2235d0b5)
 
+![unicorn3](https://github.com/sampatbulla/Unicorns_of_the_World-Power_BI/assets/44163825/03184adb-9250-4593-b0c2-f32a1596028c)
+
+![unicorn4](https://github.com/sampatbulla/Unicorns_of_the_World-Power_BI/assets/44163825/8d40dbf7-1ae7-47e1-88bb-95582b6cf9ed)
